@@ -11,12 +11,12 @@
 ### 1️⃣ Website Front Page ###
 > As you can see from the image below, this is the front page of the website. The user is asked to enter their information. 
 > 
-(![](https://i.imgur.com/sdPuvpw.jpg)
+![](https://i.imgur.com/sdPuvpw.jpg)
 
 ### 2️⃣ Website Form Validation ###
 > After all information is submitted, the user should receive a confirmation of their information.
 
-(![](https://i.imgur.com/t2wA23l.jpg)
+![](https://i.imgur.com/t2wA23l.jpg)
 
 ## 😃 Thank you for viewing my website ##
 > I hope you enjoyed the little walk through of the Customer Information Validation Website. If you have any questions and/or concerns let me know! Don't forget to leave a star⭐️.
